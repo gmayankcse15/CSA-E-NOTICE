@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/constellation"
+
+    >
+
+    <TextView
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Subscribe to the Clubs"
+        android:textColor="@color/colorw"
+        android:textSize="20dp"
+
+        />
+
+
+<!--
+
+    <CheckBox android:id="@+id/radio_cse"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/CSE"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+       />
+    <CheckBox android:id="@+id/radio_ece"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/ECE"
+       />
+    <CheckBox android:id="@+id/radio_eee"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/EEE"
+       />
+
+       -->
+    <CheckBox android:id="@+id/radio_civil"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/CIVIL"
+       />
+    <CheckBox android:id="@+id/radio_mech"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/MECH"
+       />
+    <CheckBox android:id="@+id/radio_acad"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/ACAD"
+        />
+    <CheckBox android:id="@+id/radio_cult"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/CULT"
+        />
+    <CheckBox android:id="@+id/radio_adven"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/ADVEN"
+        />
+    <CheckBox android:id="@+id/radio_lostandfound"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:buttonTint="@color/colorw"
+        android:text="@string/LOST"
+        />
+
+
+
+    <Button
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="SUBMIT"
+        android:id="@+id/submitreport"
+
+        />
+</LinearLayout>

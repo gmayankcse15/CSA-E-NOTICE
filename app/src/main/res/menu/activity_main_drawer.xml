@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grp1" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_civil"
+            android:title="TECHNICAL"
+            />
+
+    </group>
+<!--
+    <group android:id="@+id/grp2" android:checkableBehavior="single">
+
+    <item
+            android:id="@+id/nav_computer"
+
+            android:title="PROGRAMMING"
+
+            />
+
+    </group>
+
+    <group android:id="@+id/grp3" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_electrical"
+
+            android:title="ROBOTICS"
+            />
+        </group>
+
+    <group android:id="@+id/grp4" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_electronics"
+
+
+            android:title="LITERARY"
+            />
+    </group>
+-->
+    <group android:id="@+id/grp5" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_mechanical"
+
+            android:title="PHOTOGRAPHY" />
+
+        </group>
+    <group android:id="@+id/grp6" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_cultural"
+
+            android:title="CULTURAL" />
+
+    </group>
+    <group android:id="@+id/grp7" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_Academic"
+
+            android:title="ACADEMIC" />
+
+    </group>
+    <group android:id="@+id/grp8" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_adventure"
+
+            android:title="ADVENTURE" />
+
+    </group>
+    <group android:id="@+id/grp9" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_lostandfound"
+
+            android:title="LOST&amp;FOUND" />
+
+    </group>
+    <group android:id="@+id/grp10" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_notes"
+
+            android:title="NOTES" />
+
+    </group>
+
+
+
+
+    <item android:title="ADMIN"  android:checkableBehavior="single">
+        <menu>
+
+            <item
+                android:id="@+id/nav_send"
+                android:title="SEND"
+                />
+
+            <item
+                android:id="@+id/nav_share"
+                android:title="CONTACT"
+                />
+
+            <item
+                android:id="@+id/nav_develop"
+                android:title="DEVELOPER"
+                />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3ea16122606d3c1a9a82f437525dce3925e04760/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4d6a34e48cc4bdd4fdf98a240d19cf0585d09c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/24ae0875d39707c43e6deccca81d12d3502d5f33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf21be0f83a7c4ee0119c00e755596120333988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/8e5822df23d42162733856a4c14846956b81ecd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09d4f3d3bf1c05e2c009c5dd7db43dab04f8fb68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/ca3f99086d66ea9d6077a7619df647e8a572e5c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e20fc1f542069e4d688b8b1103e73a8d456f475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/dd999cff7c21a71d7d65ba579a4426d0fd47247e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2297b3b239acd3355ba501d4d6ffc62c8bcf1327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_431a66c464ebaa098cf754a83301a3bdaeed0914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/03a244503bdc8e760dfff4a06db6ae8204261120/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ae4349a68d5fd8af2d39c83960aef1309a034ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/38412b4663352f88fa9435f964e10d04c9e649b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c7c9a270e372be55d7878ab8d5f88c59a4e17d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/036e2b6271313777742c6bc3cf0c3580ab931907/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c5e55b6f77cb83e8c985d6a72aeeabf6f5d80ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/8cf849471eccc113c9144f8e0c1685b9c940b414/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53e6c4ebfea29dcb6a9066a767042bd1f5abb456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3c99553b6b0909be25fd0b2c95b3fcdb4a42bc12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1babb6376ddfa217dbb8284e135fe630ebc0a1b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_94fef8b6395100fc2f837c3fe54dae6c1acd4779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/0c3fe36897a9e1c9060189a80075b62c04213a4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aad7736cef044061226fdc6a1cbbbc4d1b234e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3cd7b8dc7ec0a72673c9009f3311c296bfd7b1b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5435a110c04df26ac821be4654f747cc6bcf922f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/945dbd06dae9014b977549f7a336cb50380bdb70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31721b307d1233962416f4e508ae4f89f85b5334/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/2fc498a68889551c1aed65953f7c3c749ebd3fa4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ea054f94a7242837608dce592275f4d41bb8c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/7ac9c2ec3a917fb3f4c3faa02f8f09b0e5deac14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_731f7799ef296e4497b15643606f79c487cd2430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/fbc4e921c2d904fd6e7b27d9e7e3408d10437de6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c442ef4eceddc68245d8392f311eb2be704c6228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_faf27064422bd4180fe6a8e7fb40b25acc2a2235/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/64df36ac74154f062fbd1158eda69e5d30f5f4b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10671125a35c258e245721470622bc9c91fd0abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/72c4a5f53e58a20efb6923d1ff57323dbd7fafb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c858c290a867b91e7b7093ecc9649702c079f59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/ce543a2e803a0af96added6d1e70b9093f644d48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e2092193391b71c200d4381d95725523a264416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/1d7e75ab20ef7c18a5be22257d181a82559075ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1341846b93a313715586f52196f40dc5f345b0c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/64df36ac74154f062fbd1158eda69e5d30f5f4b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10671125a35c258e245721470622bc9c91fd0abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/2ee146585bcb6a029c4f160b6cffc9ed2ef4659e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32509bc44bbaafce7664cd9663bfee66f51beb55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/fa36a98a287dc2e138fb426012ce49cd6df4daff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71b0764fc4d6ca4a5adb3d28aa6fbf6a0db215db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/fdcbec2c27739fc3e376a9262073f84dc448f81b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_264a8cf346b886ce824cb3c924b5337cae27f608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_7b0955d2d915334782df68c219b9821dbc4f35a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/b52ed41544c91418fe639bdf98e95aa15a9d3bb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83116ac5c01a7a2173ced8191899c4c95789af73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/945dbd06dae9014b977549f7a336cb50380bdb70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31721b307d1233962416f4e508ae4f89f85b5334/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/d6e1e4b00139997aa73f07585428d8f3a325cc06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8779b9f44b4f617dd2b9fec639307f79d0bdda6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_8c87bd349784c25f2ed0b428186bd7cc08ad0927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_5e1a194be26b5b760f11ba958112062a16aa3168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/9ddbb62fac45dc85ea15d6eb9de8ef6665f89367/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b021725e49e85b938fd206bf835db4bc5deb211/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/0ff95543de968567dd81d71ad858508a6658702e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f90c6c8268e58313ab823e587785a1210cdeb672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/656e77c638f5dcdc891bc83bd42852359ad77cc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7d6ae0d2e78e778af85cc1e80094b4c98e08d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3148eec551b138a631a0479c2d170e0b88996c09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e033fd1a66a9dcabc701713c414d1ed8e62c4787/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/9aa5e1710ec931008da6b2839641ab6b44f4e6dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5704f48b5628fda77fdc5474bc1cc682a528a981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/a76f85c786536334f552fb4dd29c57ec8ddf9aa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2d6fad034226ebdd0b6aff674608a43d7437fd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_e33bd42685903e25241c70ab9780bcd604cfdf08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/91e0b1c328481111b4a3573f101c0f498818f2de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1a5b28865bffec63236605a4731cba89e8edc57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/1393c56ea264e3ed877ba26303765a1eb8bf3e03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0558e5b6c171bd6719581340f9ac6be4af5ae265">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_615c05f4cd674e903326ae509163a94877061747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d594cb1f978a26c11183ef7085d09a500ad79dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/5936d79f1bb20f5c54a51a9a161b8116614c9dd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1395232a7eddc612029353b3c953cb0fced71076">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c352b65ef3062ccbda3297c506d540b61766691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/036e2b6271313777742c6bc3cf0c3580ab931907/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c5e55b6f77cb83e8c985d6a72aeeabf6f5d80ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_28a06864e5a1aebe67123368b87aa07841d8833d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/7ac9c2ec3a917fb3f4c3faa02f8f09b0e5deac14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_731f7799ef296e4497b15643606f79c487cd2430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/dd999cff7c21a71d7d65ba579a4426d0fd47247e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2297b3b239acd3355ba501d4d6ffc62c8bcf1327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_94fef8b6395100fc2f837c3fe54dae6c1acd4779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/38412b4663352f88fa9435f964e10d04c9e649b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c7c9a270e372be55d7878ab8d5f88c59a4e17d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_431a66c464ebaa098cf754a83301a3bdaeed0914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/0472f367ba14e936eeb6d1c85413c92ef2018bec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b221ac77874fd4ffdbd0239e93b18b4434c2602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/656e77c638f5dcdc891bc83bd42852359ad77cc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7d6ae0d2e78e778af85cc1e80094b4c98e08d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/8cf849471eccc113c9144f8e0c1685b9c940b414/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53e6c4ebfea29dcb6a9066a767042bd1f5abb456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/457ef3eb6f68594ab47484fad355bb480ea80d47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9842f25552c75af4322cc42e30c744f0a05004ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_faf27064422bd4180fe6a8e7fb40b25acc2a2235/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/72c4a5f53e58a20efb6923d1ff57323dbd7fafb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c858c290a867b91e7b7093ecc9649702c079f59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_8c87bd349784c25f2ed0b428186bd7cc08ad0927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/2ee146585bcb6a029c4f160b6cffc9ed2ef4659e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32509bc44bbaafce7664cd9663bfee66f51beb55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/03a244503bdc8e760dfff4a06db6ae8204261120/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ae4349a68d5fd8af2d39c83960aef1309a034ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/1d7e75ab20ef7c18a5be22257d181a82559075ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1341846b93a313715586f52196f40dc5f345b0c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_9be56c86e5960d489f9d11e116155392b42238ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/24ae0875d39707c43e6deccca81d12d3502d5f33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf21be0f83a7c4ee0119c00e755596120333988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/0c3fe36897a9e1c9060189a80075b62c04213a4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aad7736cef044061226fdc6a1cbbbc4d1b234e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/fbc4e921c2d904fd6e7b27d9e7e3408d10437de6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c442ef4eceddc68245d8392f311eb2be704c6228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3cd7b8dc7ec0a72673c9009f3311c296bfd7b1b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5435a110c04df26ac821be4654f747cc6bcf922f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_5e1a194be26b5b760f11ba958112062a16aa3168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/1393c56ea264e3ed877ba26303765a1eb8bf3e03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0558e5b6c171bd6719581340f9ac6be4af5ae265">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_615c05f4cd674e903326ae509163a94877061747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/ce543a2e803a0af96added6d1e70b9093f644d48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e2092193391b71c200d4381d95725523a264416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/a76f85c786536334f552fb4dd29c57ec8ddf9aa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2d6fad034226ebdd0b6aff674608a43d7437fd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_7b0955d2d915334782df68c219b9821dbc4f35a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_9be56c86e5960d489f9d11e116155392b42238ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/0ff95543de968567dd81d71ad858508a6658702e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f90c6c8268e58313ab823e587785a1210cdeb672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/2fc498a68889551c1aed65953f7c3c749ebd3fa4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ea054f94a7242837608dce592275f4d41bb8c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3c99553b6b0909be25fd0b2c95b3fcdb4a42bc12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1babb6376ddfa217dbb8284e135fe630ebc0a1b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3148eec551b138a631a0479c2d170e0b88996c09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e033fd1a66a9dcabc701713c414d1ed8e62c4787/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/5936d79f1bb20f5c54a51a9a161b8116614c9dd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1395232a7eddc612029353b3c953cb0fced71076">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c352b65ef3062ccbda3297c506d540b61766691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/9ddbb62fac45dc85ea15d6eb9de8ef6665f89367/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b021725e49e85b938fd206bf835db4bc5deb211/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/0472f367ba14e936eeb6d1c85413c92ef2018bec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b221ac77874fd4ffdbd0239e93b18b4434c2602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/457ef3eb6f68594ab47484fad355bb480ea80d47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9842f25552c75af4322cc42e30c744f0a05004ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/fdcbec2c27739fc3e376a9262073f84dc448f81b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_264a8cf346b886ce824cb3c924b5337cae27f608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/8e5822df23d42162733856a4c14846956b81ecd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09d4f3d3bf1c05e2c009c5dd7db43dab04f8fb68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/d6e1e4b00139997aa73f07585428d8f3a325cc06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8779b9f44b4f617dd2b9fec639307f79d0bdda6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/91e0b1c328481111b4a3573f101c0f498818f2de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1a5b28865bffec63236605a4731cba89e8edc57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/9aa5e1710ec931008da6b2839641ab6b44f4e6dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5704f48b5628fda77fdc5474bc1cc682a528a981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/ca3f99086d66ea9d6077a7619df647e8a572e5c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e20fc1f542069e4d688b8b1103e73a8d456f475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_28a06864e5a1aebe67123368b87aa07841d8833d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/fa36a98a287dc2e138fb426012ce49cd6df4daff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71b0764fc4d6ca4a5adb3d28aa6fbf6a0db215db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/3ea16122606d3c1a9a82f437525dce3925e04760/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4d6a34e48cc4bdd4fdf98a240d19cf0585d09c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_e33bd42685903e25241c70ab9780bcd604cfdf08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.android/build-cache/b52ed41544c91418fe639bdf98e95aa15a9d3bb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83116ac5c01a7a2173ced8191899c4c95789af73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mayank/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/mayank/AndroidStudioProjects/NITUKE-NOTICE/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d594cb1f978a26c11183ef7085d09a500ad79dbb/classes.dex" />
+    </item>
+
+</items>

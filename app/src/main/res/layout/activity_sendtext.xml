@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/constellation"
+
+    >
+
+<LinearLayout
+    android:layout_marginTop="50dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+
+
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:layout_gravity="center"
+
+        android:textSize="20dp"
+        android:text = "TITLE"
+
+
+
+
+        />
+    <EditText
+        android:layout_marginLeft="58dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:layout_gravity="center"
+        android:textColor="@color/colorw"
+        android:inputType="text" />
+
+</LinearLayout>
+
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+
+
+
+    >
+
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorw"
+        android:text = "MESSAGE"
+        android:layout_gravity="center"
+
+        android:textSize="20dp"
+
+
+
+
+        />
+    <EditText
+        android:layout_marginLeft="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorw"
+        android:id="@+id/body"
+        android:inputType="text" />
+
+
+
+
+</LinearLayout>
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="20dp"
+        android:text="Upload Notice"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/upload"
+
+        />
+    <ProgressBar
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar4"
+        android:layout_gravity="center"
+        android:progressBackgroundTint="@color/authui_colorPrimaryDark"
+
+        />
+
+
+
+    <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="50dp"
+    android:id="@+id/sndbtn"
+    android:layout_gravity="center"
+    android:background="@color/colorPrimaryDark"
+    android:text="SEND"
+    android:textColor="@color/colorw"
+    android:elevation="10dp"
+
+    />
+
+</LinearLayout>

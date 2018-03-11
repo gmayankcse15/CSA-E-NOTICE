@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219682546255",
+    "firebase_url": "https://nituk-enotice-234b4.firebaseio.com",
+    "project_id": "nituk-enotice-234b4",
+    "storage_bucket": "nituk-enotice-234b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219682546255:android:055790e8f7d9c86b",
+        "android_client_info": {
+          "package_name": "in.ac.csa.csae_notice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219682546255-snaikvem04lj5nk3cf0nv7svkm6r4aco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.csa.csae_notice",
+            "certificate_hash": "3f7fda1e6dbe4476e9819f73422536e22c2ee010"
+          }
+        },
+        {
+          "client_id": "219682546255-anldojb5c7q6kg8n6rbqt1n9lmg6425f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRYBTmcEQVUh7sPoLbBOZBkOfiqY728Ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219682546255-anldojb5c7q6kg8n6rbqt1n9lmg6425f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

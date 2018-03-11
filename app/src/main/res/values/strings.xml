@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CSA E-NOTICE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="loading">Loading…</string>
+    <string name="action_settings">Sign Out</string>
+    <string name="signout_settings">Sign out</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="CSE">PROGRAMMING</string>
+    <string name="CIVIL">TECHNICAL</string>
+    <string name="MECH">PHOTOGRAPHY</string>
+    <string name="ECE">LITERARY</string>
+    <string name="EEE">ROBOTICS</string>
+    <string name="CULT">CULTURAL</string>
+    <string name="ACAD">ACADEMIC</string>
+    <string name="ADVEN">ADVENTURE</string>
+    <string name="LOST">LOST&amp;FOUND</string>
+
+</resources>

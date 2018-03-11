@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/master_layout">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colortxt"
+        android:id="@+id/scene_root">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/text1"
+            android:src = "@drawable/front"
+            />
+<!--
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/text2"
+
+            android:src = "@drawable/nit1"
+
+
+            />
+
+-->
+    </FrameLayout>
+
+
+
+</RelativeLayout>
+
+
+    <!--
+
+         <include layout="@layout/a_scene" />
+
+      <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/dhexagon"
+            android:onClick="transit"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+     />
+    -->
+
+
+
+
+    <!--
+      <android.support.v4.view.ViewPager
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    />
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabDots"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        app:tabBackground="@drawable/tab_selector"
+        app:tabGravity="center"
+        app:tabIndicatorHeight="0dp"/>
+
+
+
+
+    <android.support.design.widget.TabLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <android.support.design.widget.TabItem
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:text="Tab1"
+
+            ></android.support.design.widget.TabItem>
+
+
+        <android.support.design.widget.TabItem
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:text="Tab1"
+
+            ></android.support.design.widget.TabItem>
+
+        <android.support.design.widget.TabItem
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:text="Tab1"
+
+            ></android.support.design.widget.TabItem>
+
+
+    </android.support.design.widget.TabLayout>
+-->

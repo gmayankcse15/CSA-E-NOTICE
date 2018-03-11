@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/constellation"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textColor="@color/colorw"
+        android:textSize="25dp"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorw"
+        android:layout_margin="20dp"
+        android:textColor="@color/colorw"
+        android:id="@+id/register_name"
+        />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="Roll No"
+            android:textColor="@color/colorw"
+            android:textSize="25dp"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:backgroundTint="@color/colorw"
+            android:textColor="@color/colorw"
+            android:id="@+id/register_roll"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="Id"
+            android:textSize="25dp"
+            android:textColor="@color/colorw"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:backgroundTint="@color/colorw"
+            android:textColor="@color/colorw"
+            android:id="@+id/register_id"
+            />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/register_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textColor="@color/colorw"
+        android:background="@color/colorPrimaryDark"
+        android:layout_gravity="center"
+        />
+
+
+</LinearLayout>
